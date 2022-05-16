@@ -645,7 +645,7 @@ a:hover{
     }
 
     #about{
-        height: 240vh;
+        height: 200vh;
         background: var(--dark);
     }
 
@@ -658,7 +658,7 @@ a:hover{
     }
 
     #skill{
-        height: 200vh;
+        height: 180vh;
         background: var(--soft-dark);
     }
 
@@ -667,12 +667,12 @@ a:hover{
     }
 
     #project{
-        height: 310vh;
+        height: 290vh;
         background: var(--dark);
     }
 
     #contact{
-        height: 210vh;
+        height: 190vh;
     }
 
     .google-map{
@@ -724,12 +724,12 @@ a:hover{
     }
 
     #about{
-        height: 180vh;
+        height: 205vh;
         background: var(--dark);
     }
 
     #skill{
-        height: 150vh;
+        height: 180vh;
     }
 
     .google-map{
@@ -750,11 +750,11 @@ a:hover{
     }
 
     #project{
-        height: 230vh;
+        height: 260vh;
     }
 
     #contact{
-        height: 150vh;
+        height: 185vh;
     }
 }
 
@@ -774,7 +774,7 @@ a:hover{
     }
 
     #about{
-        height: 250vh;
+        height: 210vh;
         background: var(--dark);
     }
 
@@ -795,6 +795,6 @@ a:hover{
     }
 
     #contact{
-        height: 200vh;
+        height: 190vh;
     }
 }
