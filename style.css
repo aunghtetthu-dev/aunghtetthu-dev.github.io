@@ -624,7 +624,7 @@ a:hover{
     }
 }
 
-@media  screen  and (max-width: 450px) {
+@media  screen  and (max-width: 475px) {
     #home{
         height: 120vh;
     }
@@ -703,7 +703,7 @@ a:hover{
 
 }
 
-@media screen and (max-width : 375px ) {
+@media screen and (max-width : 400px ) {
     .navbar li a{
         width: 100%;
         text-align: left;
