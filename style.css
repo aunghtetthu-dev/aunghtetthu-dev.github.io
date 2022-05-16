@@ -724,8 +724,12 @@ a:hover{
     }
 
     #about{
-        height: 245vh;
+        height: 180vh;
         background: var(--dark);
+    }
+
+    #skill{
+        height: 150vh;
     }
 
     .google-map{
@@ -746,11 +750,11 @@ a:hover{
     }
 
     #project{
-        height: 290vh;
+        height: 230vh;
     }
 
     #contact{
-        height: 220vh;
+        height: 150vh;
     }
 }
 
@@ -791,6 +795,6 @@ a:hover{
     }
 
     #contact{
-        height: 150vh;
+        height: 200vh;
     }
 }
