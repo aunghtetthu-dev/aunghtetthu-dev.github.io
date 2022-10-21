@@ -577,7 +577,50 @@ a:hover{
     }
 }
 
+@media screen and (max-width: 1248px) {
+    .navbar li a{
+        width: 100%;
+        text-align: left;
+    }
 
+    #home{
+        height: 120vh;
+    }
+
+    #about{
+        height: 140vh;
+    }
+
+    .my-interest-tab{
+        font-size: 25px;
+        width: 85px;
+    }
+
+    #skill{
+        height: 130vh;
+    }
+
+    #contact{
+        height: 145vh;
+    }
+
+    .google-map{
+        width: 350px;
+        height: 450px;
+
+    }
+
+    .map-address-card{
+        background-color: var(--dark) !important;
+        width: 280px !important;
+        padding: 20px;
+        position: absolute;
+        top : 120px;
+        left: 39px;
+        border-radius: 10px;
+        font-size: 12px;
+    }
+}
 
 @media screen and (max-width: 768px) {
     .navbar li a{
